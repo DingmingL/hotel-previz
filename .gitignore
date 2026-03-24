@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+visual_asset/
+input/
+output/*.json
+output/keyframe_images*/
+output/scene_references/
+characters/
+interview.m4a
